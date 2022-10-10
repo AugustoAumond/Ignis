@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import './HomePage.css'
 
 import Menu from '../../components/menu/Menu';
 import Logo from '../../components/logo/Logo';
@@ -27,7 +26,6 @@ function HomePage() {
 export default HomePage;
 
 const DivHomePage = styled.div`
-font-size: 'Helvetica Neue';
 width: 375px;
 margin: 0 auto;
 border: solid 1px white;

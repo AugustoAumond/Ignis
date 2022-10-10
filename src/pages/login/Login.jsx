@@ -1,7 +1,5 @@
 import styled from "styled-components";
 
-import './../homepage/Homepage.css'
-
 import Menu from "../../components/menu/Menu";
 import Arrow from "../../components/login/arrow/Arrow";
 import Logo from "../../components/logo/Logo";
